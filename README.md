@@ -69,10 +69,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 15. click on debug and simulate using simulation as shown below 
 
-![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
-
-
-  
 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -174,10 +170,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2024-10-10 093003](https://github.com/user-attachments/assets/4b60e395-535a-4b7f-ac2d-a04bdd928355)
-![Screenshot 2024-10-10 093017](https://github.com/user-attachments/assets/2555571d-ee1e-402b-8a82-f04d1478358f)
 
- 
+![Screenshot 2024-10-14 092347](https://github.com/user-attachments/assets/28f4bb98-675d-4315-b471-5da4e01d6354)
+![Screenshot 2024-10-14 092415](https://github.com/user-attachments/assets/827429f9-5793-4587-841f-2cf58141bc91)
+
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
 ![Screenshot 2024-10-10 092949](https://github.com/user-attachments/assets/d84e993a-8fee-442a-83d7-3161652da450)
