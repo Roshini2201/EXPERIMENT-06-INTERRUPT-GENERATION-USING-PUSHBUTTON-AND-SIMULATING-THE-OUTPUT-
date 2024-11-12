@@ -1,8 +1,7 @@
-## DATE:
+## DATE:4/11/24
 ## EX NO:06
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-## NAME : ROSHINI S
-## REG NO: 212223240142
+
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
@@ -66,7 +65,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 15. click on debug and simulate using simulation as shown below 
-
+## NAME : ROSHINI S
+## REG NO: 212223240142
 
 ## STM 32 CUBE PROGRAM :
 ```
